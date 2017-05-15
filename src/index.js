@@ -23,6 +23,6 @@ import './index.css';
 
 
 ReactDOM.render(
-  <Login/>,
+  <Login />,
   document.getElementById('root')
 );
