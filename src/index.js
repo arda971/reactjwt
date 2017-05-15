@@ -23,6 +23,6 @@ export const Root = () => {
 
 
 ReactDOM.render(
-  <Root/>,
+  <Login/>,
   document.getElementById('root')
 );
