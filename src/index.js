@@ -8,7 +8,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import './index.css';
 
 
-export const Root = () => {
+/*export const Root = () => {
 	return (
         <BrowserRouter>
 			<div>
@@ -18,7 +18,7 @@ export const Root = () => {
            </div>
 		</BrowserRouter>
 	)
-}
+}*/
 
 
 
